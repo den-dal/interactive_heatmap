@@ -1,5 +1,5 @@
 # interactive_heatmap
-''''
+````
 import re
 import numpy as np
 import pandas as pd
@@ -1064,4 +1064,4 @@ print(
     "Maximum log(reads + 1) value shown on color bar: "
     f"{maximum_log_value:.2f}"
 )
-''''
+````
